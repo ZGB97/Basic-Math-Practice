@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Simple Math Questions develop in C programing Language.
+Simple Math Questions that was developed in C programing Language.
 <br />
 
 
